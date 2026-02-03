@@ -52,7 +52,7 @@ The "No" button dodges the cursor, adding playful difficulty to declining
 
 🚀 Live Demo
 
-You can view the live version here file:///C:/Users/Milap/OneDrive/Desktop/HER/valentine-ask-main/valentine-ask-main/index.html
+💖 **[Click here to open the Valentine's invitation!](https://shymilo.github.io/Will-you-be-my-valentines/)**
 
 🛠️ Technologies Used
 HTML5
