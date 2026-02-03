@@ -28,16 +28,27 @@ Users can click "Yes" for an immediate celebration response
 The "No" button dodges the cursor, adding playful difficulty to declining
 
 📁 Project Structure
+
 ├── index.html          # Main HTML document
+
 ├── style.css           # Styles and animations
+
 ├── script.js           # Interactive JavaScript logic
+
 ├── heart-bg.jpg        # Background image
+
 ├── envelope.png        # Decorative envelope image
+
 ├── window.png          # Window frame graphic
+
 ├── yes.png             # "Yes" button image
+
 ├── no.png              # "No" button image
+
 ├── cat_dance.gif       # Animated dancing cat
+
 └── cat_heart.gif       # Heart animation with cat
+
 
 🚀 Live Demo
 You can view the live version here file:///C:/Users/Milap/OneDrive/Desktop/HER/valentine-ask-main/valentine-ask-main/index.html
