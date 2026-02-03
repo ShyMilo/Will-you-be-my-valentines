@@ -28,7 +28,6 @@ Users can click "Yes" for an immediate celebration response
 The "No" button dodges the cursor, adding playful difficulty to declining
 
 📁 Project Structure
-text
 ├── index.html          # Main HTML document
 ├── style.css           # Styles and animations
 ├── script.js           # Interactive JavaScript logic
