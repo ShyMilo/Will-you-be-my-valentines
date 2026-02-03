@@ -65,7 +65,7 @@ Git for version control
 📝 Setup Instructions
 Clone the repository:
 
-git clone https://github.com/your-username/will-you-be-my-valentine.git
+git clone https://github.com/ShyMilo/will-you-be-my-valentine.git
 Open index.html in your browser
 
 No additional dependencies or build steps required!
